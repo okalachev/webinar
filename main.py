@@ -1,4 +1,4 @@
-print('hello')
-print('good bye')
-print('something else')
-print('123')
+def get_hello():
+	return 'hello'
+
+print(get_hello())
